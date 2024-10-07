@@ -1,4 +1,4 @@
-## Name         : Yash Kumar Singh
+## Name         : Fernando Vivanco
 ## Program Title: Constructing plot1.png
 ## ------------------------------------------------------------------
 
